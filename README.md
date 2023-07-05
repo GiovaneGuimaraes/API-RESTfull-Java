@@ -10,4 +10,5 @@ Diagramas:
 
 ![2](https://github.com/GiovaneGuimaraes/API-RESTfull-Java/assets/133304083/ef3c4471-f12e-4f05-bc4f-78f9c9fd0c98)
 
-Objetivo: 
+Objetivo: Trata-se de um sistema em Java que implementa uma API RESTfull para uma aplicação de hospital, esses códigos fornecem uma estrutura básica que permite a manipulação de pacientes, médicos e consultas.
+  'o foco principal não é o embelezamento até porque não tem uma interface JavaFX presente, mas sim, sua aplicação no backend'
