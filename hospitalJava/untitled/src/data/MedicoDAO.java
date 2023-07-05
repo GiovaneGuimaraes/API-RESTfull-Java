@@ -9,10 +9,8 @@ public interface MedicoDAO extends DAO<Medico>{
     @Override
     void salvar(Medico medico);
 
-    @Override
     void atualizar(Medico medico);
 
-    @Override
     void apagar(Medico medico);
 
     @Override
