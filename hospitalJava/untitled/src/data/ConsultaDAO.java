@@ -9,10 +9,8 @@ public interface ConsultaDAO extends DAO<Consulta>{
     @Override
     void salvar(Consulta consulta);
 
-    @Override
     void atualizar(Consulta consulta);
 
-    @Override
     void apagar(Consulta consulta);
 
     @Override
