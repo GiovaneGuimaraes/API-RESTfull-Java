@@ -22,4 +22,9 @@ Implementação de Especialidade, médicos e paciente na main:
         Medico medico1 = new Medico(1,"44631741","Giovane","10",pediatra);
         Medico medico2 = new Medico(2,"5212425","Cleito","20",cirurgiao);
 
-        Paciente paciente1 = new Paciente(1,"1641641","Robertin","rua BR","24-02-2003");'
+        Paciente paciente1 = new Paciente(1,"1641641","Robertin","rua BR","24-02-2003");
+
+Impressão utilizando o buscarTodos e o mostrarDados : 
+
+![3](https://github.com/GiovaneGuimaraes/API-RESTfull-Java/assets/133304083/872b6a1b-c14c-4046-a94b-bbe4e133cd2c)
+
