@@ -15,12 +15,11 @@ Objetivo: Trata-se de um sistema em Java que implementa uma API RESTfull para um
 
 Resultados e testes: 
 Implementação de Especialidade, médicos e paciente na main:
-        '
+        
         Especialidade pediatra = new Especialidade(1,"pediatra");
         Especialidade cirurgiao = new Especialidade(2,"Cirurgiao");
 
         Medico medico1 = new Medico(1,"44631741","Giovane","10",pediatra);
         Medico medico2 = new Medico(2,"5212425","Cleito","20",cirurgiao);
-
 
         Paciente paciente1 = new Paciente(1,"1641641","Robertin","rua BR","24-02-2003");'
